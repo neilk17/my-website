@@ -1,6 +1,9 @@
 Hello, World!
 
-I will be adding things that I learned from Harvards CS50 course on Edex onto this repository. 
+This is my personal website and blog. 
 
-I am making a change
-ø
+As I learn new things I will be implementing them into the website
+
+I will showcase my projects as well as write tutorials for beginners
+
+Send me an email if you have any questions
